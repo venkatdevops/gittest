@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 1st line
-2nd line from web 
+2nd line from web changing i am chaning
 3rd line from linux
 4th line from gitgui
+<<<<<<< HEAD
 =======
 1st line
 >>>>>>> parent of 9974c0e... commit from web
+=======
+>>>>>>> 10066295e6f76d6fbecb8a606344b450c9541294
