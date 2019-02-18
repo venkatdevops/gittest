@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1st line
 2nd line from web 
 3rd line from linux
 4th line from gitgui
+=======
+1st line
+>>>>>>> parent of 9974c0e... commit from web
