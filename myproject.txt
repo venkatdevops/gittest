@@ -1,7 +1,4 @@
 1st line
 2nd line from web 
-<<<<<<< HEAD
 3rd line from linux
 4th line from gitgui
-=======
->>>>>>> parent of 55d8f71... coomit from linux client
