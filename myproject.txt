@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-1st line
+1st line x1
 2nd line from web changing i am chaning
 3rd line from linux
 4th line from gitgui
